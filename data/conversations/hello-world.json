@@ -1,0 +1,11 @@
+{
+  "id": "hello-world",
+  "participants": ["Student", "Alice"],
+  "messages": [
+    {
+      "sender": "Alice",
+      "time": 1512246299194,
+      "message": "Eu sou Alice. Sou serva de Jesus Cristo."
+    }
+  ]
+}
